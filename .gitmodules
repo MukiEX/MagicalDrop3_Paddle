@@ -1,0 +1,3 @@
+[submodule "MD3P_MVS"]
+	path = MD3P_MVS
+	url = https://github.com/MukiEX/MD3P_MVS.git
