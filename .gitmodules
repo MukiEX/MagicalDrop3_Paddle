@@ -5,3 +5,6 @@
 	path = MD3P_SAT
 	url = ../MD3P_SAT.git
 	branch = main
+[submodule "MD3P_PSX"]
+	path = MD3P_PSX
+	url = https://github.com/MukiEX/MD3P_PSX.git
