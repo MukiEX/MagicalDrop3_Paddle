@@ -8,3 +8,6 @@
 [submodule "MD3P_PSX"]
 	path = MD3P_PSX
 	url = https://github.com/MukiEX/MD3P_PSX.git
+[submodule "Paddle_Testers"]
+	path = Paddle_Testers
+	url = git@github.com:MukiEX/Paddle_Testers.git
